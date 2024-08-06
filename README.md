@@ -24,8 +24,6 @@ Output: light
 
 Verilog module defines a finite state machine(FSM) that is cyclic lamp where the state changes from RED --> GREEN --> YELLOW --> RED
 
-![Screenshot (173)](https://github.com/user-attachments/assets/0e3b6339-6912-47fe-9aa8-6046a0202bd7)
-
 State : COLOR
 
 s0    : RED
@@ -45,3 +43,5 @@ There are two types of FSMs.
 1.Moore state machine: A Finite state machine is said to be Moore state machine, if outputs depend only on present states.
 
 2.Mealy state machine: A Finite state machine is said to be Melay state machine, if outputs depend on both present inputs and present states.
+
+![Screenshot (173)](https://github.com/user-attachments/assets/0e3b6339-6912-47fe-9aa8-6046a0202bd7)
