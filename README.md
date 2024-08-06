@@ -24,7 +24,9 @@ Verilog module defines a finite state machine(FSM) that is cyclic lamp where the
 
 State : COLOR
 s0    : RED
+
 s1    : GREEN
+
 s2    : YELLOW
 
 FSM can be developed in two models
