@@ -32,6 +32,11 @@ s1    : GREEN
 
 s2    : YELLOW
 
-FSM can be developed in two models
-1.Moore state machine: Here the ouput is the function of present state only
-2.Mealy state machine: Here the output is the function of present state as well as inputs
+The behavior of synchronous sequential circuits can be represented in the graphical form and it is known as state diagram.
+Asynchoronous sequential circuit is also called as FINITE STATE MACHINE(FSM). if it has finite number of states.
+
+There are two types of FSMs.
+
+1.Moore state machine: A Finite state machine is said to be Moore state machine, if outputs depend only on present states.
+
+2.Mealy state machine: A Finite state machine is said to be Melay state machine, if outputs depend on both present inputs and present states.
