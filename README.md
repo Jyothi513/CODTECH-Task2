@@ -14,11 +14,15 @@ Mentor:Muzammil Ahmed.
 
 Project:FINITE STATE MACHINE (FSM) DESIGN.
 
-![Screenshot (173)](https://github.com/user-attachments/assets/0e3b6339-6912-47fe-9aa8-6046a0202bd7)
+Objective: The objective of this task is to Design FSMs using Verilog or VHDL in the VLSI software environment and write testbenches to test different states and transitions of the FSM. Simulate the FSM behavior and verify its correctness.
+
+Keypoints:
 
 Inputs: clock
 
 Output: light
+
+![Screenshot (173)](https://github.com/user-attachments/assets/0e3b6339-6912-47fe-9aa8-6046a0202bd7)
 
 Verilog module defines a finite state machine(FSM) that is cyclic lamp where the state changes from RED --> GREEN --> YELLOW --> RED
 
