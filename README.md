@@ -8,6 +8,8 @@ ID: CT6VLSI659
 
 Domain:VLSI
 
+Duration: June to August 2024
+
 Mentor:Muzammil Ahmed.
 
 **Overview of the project**
